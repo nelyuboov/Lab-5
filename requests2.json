@@ -1,0 +1,74 @@
+{
+   "items": [
+      {
+         "id": "5713306",
+         "name": "BTS Python shoes",
+         "url": "https://api.hh.ru/employers/5713306?locale=RU&host=hh.ru",
+         "alternate_url": "https://hh.ru/employer/5713306",
+         "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/890820.jpg",
+            "240": "https://hhcdn.ru/employer-logo/4003968.jpeg",
+            "90": "https://hhcdn.ru/employer-logo/4003967.jpeg"
+         },
+         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5713306&locale=RU&host=hh.ru",
+         "open_vacancies": 0
+      },
+      {
+         "id": "2219347",
+         "name": "Luis Python",
+         "url": "https://api.hh.ru/employers/2219347?locale=RU&host=hh.ru",
+         "alternate_url": "https://hh.ru/employer/2219347",
+         "logo_urls": null,
+         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2219347&locale=RU&host=hh.ru",
+         "open_vacancies": 0
+      },
+      {
+         "id": "97962",
+         "name": "Python",
+         "url": "https://api.hh.ru/employers/97962?locale=RU&host=hh.ru",
+         "alternate_url": "https://hh.ru/employer/97962",
+         "logo_urls": null,
+         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=97962&locale=RU&host=hh.ru",
+         "open_vacancies": 0
+      },
+      {
+         "id": "3115724",
+         "name": "Python",
+         "url": "https://api.hh.ru/employers/3115724?locale=RU&host=hh.ru",
+         "alternate_url": "https://hh.ru/employer/3115724",
+         "logo_urls": null,
+         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3115724&locale=RU&host=hh.ru",
+         "open_vacancies": 0
+      },
+      {
+         "id": "8940297",
+         "name": "\u0427\u0430\u0441\u0442\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f Python RPA Ltd.",
+         "url": "https://api.hh.ru/employers/8940297?locale=RU&host=hh.ru",
+         "alternate_url": "https://hh.ru/employer/8940297",
+         "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/977152.png",
+            "240": "https://hhcdn.ru/employer-logo/5529445.png",
+            "90": "https://hhcdn.ru/employer-logo/5529444.png"
+         },
+         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8940297&locale=RU&host=hh.ru",
+         "open_vacancies": 0
+      },
+      {
+         "id": "4599861",
+         "name": "\u0428\u043a\u043e\u043b\u0430 Python",
+         "url": "https://api.hh.ru/employers/4599861?locale=RU&host=hh.ru",
+         "alternate_url": "https://hh.ru/employer/4599861",
+         "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/734716.png",
+            "240": "https://hhcdn.ru/employer-logo/3379842.png",
+            "90": "https://hhcdn.ru/employer-logo/3379841.png"
+         },
+         "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4599861&locale=RU&host=hh.ru",
+         "open_vacancies": 0
+      }
+   ],
+   "found": 6,
+   "pages": 1,
+   "per_page": 20,
+   "page": 0
+}
